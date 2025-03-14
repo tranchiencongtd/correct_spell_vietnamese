@@ -1,0 +1,24 @@
+Người dân khi cấp đổi giấy phép lái xe trực tuyến cấp độ 4 phải trải qua 13 bước.
+Bước một, cần truy cập vào trang web quản trị dịch vụ công tại địa chỉ https://dvc4.gplx.gov.vn, đăng nhập bằng tài khoản và mật khẩu đã đăng ký.
+Bước hai, người dân lựa chọn dịch vụ "Đổi giấy phép lái xe".
+Bước ba, cần lựa chọn cơ quan tiếp nhận, lý do đổi giấy phép lái xe.
+Bước 4, tra cứu thông tin giấy phép lái xe đã cấp bằng số giấy phép lái xe được in trong giấy phép lái xe cũ.
+Bước 5, người dân kiểm tra thông tin cá nhân và giấy phép lái xe gồm họ tên, nơi thường trú, ngày cấp, ngày hết hạn, hạng giấy phép.
+Bước 6, nhập thông tin thay đổi nếu có nhu cầu.
+Bước 7, người dân tra cứu thông tin sức khỏe đã khám bằng mã giấy khám sức khỏe hoặc số căn cước công dân, sau đó xem chi tiết sức khỏe.
+Bước 8, tải ảnh chân dung kích cỡ 3x4 cm, phông nền màu xanh, đầu không nghiêng quá 5 độ, ảnh chụp thẳng, không đeo gọng kính dày, kính sẫm màu.
+Bước 9, người dân đính kèm hồ sơ như ảnh chụp giấy phép lái xe cũ, chứng minh nhân dân hoặc căn cước công dân.
+Bước 10, kiểm tra lại thông tin liên hệ gồm số điện thoại và địa chỉ thư điện tử.
+Bước 11, cam kết thông tin và nhấn tiếp tục.
+Bước 12, người dân lựa chọn hình thức nhận kết quả trực tiếp hoặc tại nhà.
+Nếu chọn tại nhà, cần nhập thêm phần địa chỉ.
+Bước 13, nhấn nộp hồ sơ và có thể xem lại thông tin.
+Sau khi nhấn nộp hồ sơ, người dân đã đăng ký thành công dịch vụ đổi giấy phép trên cổng dịch vụ công mức độ 4, chờ cơ quan thẩm quyền phê duyệt và hướng dẫn bổ sung hồ sơ (nếu sai sót hoặc thiếu thông tin).
+Lệ phí đổi là 115.000 đồng.
+Người dân được nhận kết quả sau 5 ngày kể từ ngày được tiếp nhận hồ sơ.
+Thông tin giấy phép lái xe được cập nhật trên VNeID (đối với người dân sử dụng định danh mức 2) và trang tra cứu thông tin của Cục Cảnh sát giao thông là gplx.csgt.bocongan.gov.vn sau ba ngày kể từ ngày được tiếp nhận hồ sơ.
+Cục Cảnh sát giao thông (Bộ Công an) cho biết công an không làm việc với người dân qua điện thoại, không thực hiện việc cấp đổi bằng lái xe bằng hình thức gọi điện.
+Vì thế người dân tuyệt đối không cung cấp thông tin cá nhân cho bất kỳ ai không quen biết, kể cả người tự xưng là cán bộ công an.
+Đặc biệt, người dân không làm theo yêu cầu của người lạ liên lạc qua số điện thoại gọi đến tự xưng là cán bộ công an để hướng dẫn cài đặt ứng dụng, kích hoạt tài khoản, các phần mềm ứng dụng, đường link lạ hoặc yêu cầu chuyển tiền.
+Từ ngày 1/3, việc cấp đổi giấy phép lái xe sẽ được ngành công an thực hiện bằng hai hình thức trực tuyến và trực tiếp tại Phòng Cảnh sát giao thông cấp tỉnh và công an xã, phường, thị trấn.
+Công việc này trước đó do ngành giao thông vận tải đảm nhiệm.
